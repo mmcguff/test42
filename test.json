@@ -1,14 +1,22 @@
 [
-	{
-		"label": "One",
-		"value": "One"
-	},
-	{
-		"label": "Two",
-		"value": "Two"
-	},
-	{
-		"label": "Three",
-		"value": "Three"
-	}
+    {
+        "label": "Adams Rescue Mission, Gettysburg, Pennsylvania (161200)",
+        "value": "Adams Rescue Mission, Gettysburg, Pennsylvania (161200)"
+    },
+    {
+        "label": "Agape House of Prescott, Prescott, Arizona (157972)",
+        "value": "Agape House of Prescott, Prescott, Arizona (157972)"
+    },
+    {
+        "label": "Alejos Company TEST, Houston, Texas (157918)",
+        "value": "Alejos Company TEST, Houston, Texas (157918)"
+    },
+    {
+        "label": "Americas Keswick Colony of Mercy, Whiting, New Jersey (100237)",
+        "value": "Americas Keswick Colony of Mercy, Whiting, New Jersey (100237)"
+    },
+    {
+        "label": "Anchorage Gospel Rescue Mission, Anchorage, Alaska (100012)",
+        "value": "Anchorage Gospel Rescue Mission, Anchorage, Alaska (100012)"
+    }
 ]
