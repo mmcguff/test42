@@ -1,6 +1,6 @@
 [
     {
-        "label": "Adams-Rescue-Mission,Gettysburg,Pennsylvania(161200)",
+        "label": "Adams Rescue Mission, Gettysburg, Pennsylvania (161200)",
         "value": "Adams Rescue Mission, Gettysburg, Pennsylvania (161200)"
     },
     {
@@ -18,13 +18,13 @@
     {
         "label": "Anchorage Gospel Rescue Mission, Anchorage, Alaska (100012)",
         "value": "Anchorage Gospel Rescue Mission, Anchorage, Alaska (100012)"
-    }, 
-    {
-        "label": "My New Change",
-        "value": "My New Change"
     },
     {
-        "label": "Another Commit",
-        "value": "This might work"
+        "label": "Ronald McDonald House",
+        "value": "Ronald McDonald House"
+    },
+    {
+        "label": "chage",
+        "value": "change"
     }
 ]
